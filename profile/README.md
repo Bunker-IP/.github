@@ -1,5 +1,5 @@
 ## Welcome to Bunker-IP
 
-**Last Release: **
+**LAST RELEASE**
 
--> 1.1-BETA
+Bunker-Ubuntu 1.1-BETA
