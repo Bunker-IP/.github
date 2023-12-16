@@ -2,4 +2,4 @@
 
 **LAST RELEASE**
 
-Bunker-Ubuntu 1.1-BETA
+Bunker-Ubuntu 1.2-BETA
